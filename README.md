@@ -1,4 +1,8 @@
-### how to run backend on your local machine
+## Currently Deployed App
+
+Try logging in as 'amy': https://workit-orange.firebaseapp.com/
+
+## Running backend on your local machine
 
 1. go into the workit-back folder
 
